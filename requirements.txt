@@ -1,0 +1,11 @@
+streamlit==1.27
+altair==5.1.1
+ipython==8.15.0
+matplotlib==3.8.0
+numpy==1.26.0
+pandas==2.1.1
+Pillow==9.5.0
+pip==23.2.1
+plotly==5.17.0
+pyparsing==3.1.1
+seaborn==0.12.2
